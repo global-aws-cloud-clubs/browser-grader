@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Captain Extension",
+    "version": "1.0.0",
+    "description": "A Chrome extension built with Vue.js",
+    "action": {
+      "default_popup": "index.html"
+    },
+    "icons": {
+      "48": "icon48.png",
+      "128": "icon128.png"
+  }
+  }
+  
